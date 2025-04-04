@@ -1,3 +1,8 @@
 ollama
 google-genai
 anthropic
+torch 
+transformers
+diffusers
+datasets
+soundfile
